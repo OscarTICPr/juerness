@@ -1,0 +1,24 @@
+h1{
+    color: gold;
+}
+
+h3{
+    color: darkorange;
+}
+#encabezado-cuatro{
+    color: blueviolet;
+}
+p{
+    color: aquamarine;
+}
+.color-red{
+    color: blue;
+}
+    body{
+        background-image: url(https://st.depositphotos.com/2334887/3144/i/600/depositphotos_31448211-stock-photo-beautiful-woman-with-the-red.jpg);
+        background-size: cover;
+
+    }
+.footer{
+    color: chartreuse;
+}
